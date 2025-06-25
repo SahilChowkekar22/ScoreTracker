@@ -91,12 +91,7 @@ https://github.com/alfianlosari/SVGImageSwiftUI
 
 
 ##  Demo Video
- [Click here to watch the demo](https://github.com/SahilChowkekar22/ScoreTracker/blob/main/Video/Demo.mp4)
-
-or
-
-[![Watch Demo](https://github.com/SahilChowkekar22/ScoreTracker/blob/main/Assets/thumbnail.png?raw=true)](https://github.com/SahilChowkekar22/ScoreTracker/blob/main/Video/Demo.mp4)
-
+ [Click here to watch the demo](https://youtu.be/67tpk4nctpY)
 
 ---
 
