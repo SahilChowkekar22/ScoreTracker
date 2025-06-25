@@ -18,7 +18,7 @@
 
 import SwiftUI
 
-let apiKey = "80d04bc220424866b44eaffded9ea476"
+let apiKey = "API_Key"
 
 @main
 struct ScoreTrackerApp: App {
