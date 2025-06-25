@@ -1,6 +1,6 @@
 # ScoreTracker
 
-ScoreTracker is a SwiftUI-based app that displays football standings, top scorers, and other competition data using [XCAFootballDataClient](https://github.com/alfianlosari/XCAFootballDataClient). It supports both iOS and visionOS with immersive RealityKit-based views for spatial experiences.
+ScoreTracker is a SwiftUI-based app that displays football standings, top scorers, and other competition data using [XCAFootballDataClient](https://github.com/alfianlosari/XCAFootballDataClient). It supports both iOS and VisionOS with immersive RealityKit-based views for spatial experiences.
 
 ---
 
@@ -90,9 +90,13 @@ https://github.com/alfianlosari/SVGImageSwiftUI
 3. Ensure it's listed under “Frameworks, Libraries & Embedded Content.”
 
 
-## 📸 Demo
+##  Demo Video
+ [Click here to watch the demo](https://github.com/SahilChowkekar22/ScoreTracker/blob/main/Video/Demo.mp4)
 
-![ScoreTracker Demo] (https://github.com/SahilChowkekar22/ScoreTracker/blob/main/Video/Demo.mp4)
+or
+
+[![Watch Demo](https://github.com/SahilChowkekar22/ScoreTracker/blob/main/Assets/thumbnail.png?raw=true)](https://github.com/SahilChowkekar22/ScoreTracker/blob/main/Video/Demo.mp4)
+
 
 ---
 
