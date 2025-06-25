@@ -87,12 +87,12 @@ https://github.com/alfianlosari/SVGImageSwiftUI
 
 1. Go to `File ▸ Swift Packages ▸ Add Local Package...`
 2. Choose the `Packages/RealityKitContent` folder
-3. Ensure it's listed under “Frameworks, Libraries & Embedded Content”
+3. Ensure it's listed under “Frameworks, Libraries & Embedded Content.”
 
 
-## 📸 Screenshots
+## 📸 Demo
 
-> Add screenshots of the Standings and Top Scorers tables here (iOS and visionOS)
+![ScoreTracker Demo] (https://github.com/SahilChowkekar22/ScoreTracker/blob/main/Video/Demo.mp4)
 
 ---
 
