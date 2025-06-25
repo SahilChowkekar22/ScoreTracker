@@ -1,12 +1,3 @@
-//
-//  Readme.md
-//  ScoreTracker
-//
-//  Created by Sahil ChowKekar on 6/25/25.
-//
-
-
-
 # ScoreTracker
 
 ScoreTracker is a SwiftUI-based app that displays football standings, top scorers, and other competition data using [XCAFootballDataClient](https://github.com/alfianlosari/XCAFootballDataClient). It supports both iOS and visionOS with immersive RealityKit-based views for spatial experiences.
